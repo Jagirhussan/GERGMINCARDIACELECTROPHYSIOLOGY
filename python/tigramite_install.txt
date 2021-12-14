@@ -1,0 +1,2 @@
+See https://jakobrunge.github.io/tigramite/
+Tested on tigramite==4.2
